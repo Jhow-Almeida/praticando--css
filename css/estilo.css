@@ -18,3 +18,27 @@
     color: #fff;
     text-decoration: none;
 }
+
+.sobre .container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+footer .container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.nike-logo{
+    display:flex;
+    align-items:center;
+    gap: 20px;
+}
