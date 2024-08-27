@@ -112,6 +112,7 @@ header ul li a:hover {
 }
 
 .produto .preco {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1.4em;
     color: #333;
     background-color: rgb(205, 205, 205);
@@ -139,6 +140,7 @@ header ul li a:hover {
 }
 
 footer {
+    font-family: "Times New Roman";
     background: #333;
     color: #fff;
     padding: 10px 0;
